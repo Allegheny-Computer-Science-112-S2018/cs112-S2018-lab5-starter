@@ -16,6 +16,10 @@ This is the answer.
 
 This is the answer.
 
+## What are the results from running your experiment? What do they mean?
+
+Please give your data tables in a fenced code block.
+
 ## What challenges did you face during this assignment? How did you handle them?
 
 This is the answer.
