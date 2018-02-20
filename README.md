@@ -96,7 +96,7 @@ guides will help you to understand how to use both [GitHub](http://github.com) a
 To do well on this assignment, you should also review Chapter 3 of the course
 textbook, paying close attention to Sections 3.1 and 3.6 and the source code on
 page 111. You should also read Section 4.1, focusing on Code Fragment 4.1 and
-the text that discusses Figure 4.1. Please see the course instructor or one of
+the text that discusses Table 4.1. Please see the course instructor or one of
 the teaching assistants or tutors if you have questions about any of these
 reading assignments.
 
