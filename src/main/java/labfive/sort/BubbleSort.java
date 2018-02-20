@@ -13,7 +13,7 @@ public class BubbleSort extends Sorter {
 
   /** Define the name of this sorting algorithm. */
   public BubbleSort() {
-    // TODO: Define the name of the BubbleSort
+    // TODO: Define the name to be BubbleSort
   }
 
   /** Bubble-sort of an array of chars into a nondecreasing order. This

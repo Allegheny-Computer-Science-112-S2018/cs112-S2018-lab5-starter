@@ -33,7 +33,7 @@ public class InsertionSort extends Sorter {
 
   /** Define the name of this sorting algorithm. */
   public InsertionSort() {
-    // TODO: Define the name of the sorting algorithm
+    // TODO: Define the name to be InsertionSort
   }
 
   /** Insertion-sort of an array of chars into a nondecreasing order. This
