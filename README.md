@@ -167,15 +167,15 @@ Results of an experiment campaign with BubbleSort:
 
 Size (#)        Timing (ms)     Ratio (#)
 250             2               0
-500             5               2
-1000            5               1
-2000            11              2
-4000            27              2
-8000            119             4
-16000           548             4
-32000           2565            4
-64000           10219           3
-128000          38563           3
+500             2               1
+1000            4               2
+2000            10              3
+4000            27              3
+8000            120             4
+16000           529             4
+32000           2438            5
+64000           10107           4
+128000          39215           4
 
 Starting a campaign of experiments with InsertionSort ...
   Running round 0 with input size 250
@@ -193,16 +193,16 @@ Starting a campaign of experiments with InsertionSort ...
 Results of an experiment campaign with InsertionSort:
 
 Size (#)        Timing (ms)     Ratio (#)
-250             1               0
-500             1               1
-1000            2               2
+250             0               0
+500             2               0
+1000            2               1
 2000            4               2
-4000            2               0
-8000            7               3
-16000           28              4
+4000            3               1
+8000            7               2
+16000           30              4
 32000           117             4
-64000           648             5
-128000          2377            3
+64000           469             4
+128000          2170            5
 ```
 
 ## Checking
